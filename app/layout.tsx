@@ -6,6 +6,12 @@ export const metadata: Metadata = {
   title: "Ais & Tangkas – Wedding Invitation",
   description:
     "Undangan Pernikahan Puspitalia Dwi Aisah & Tangkas Risdianto · 7 Juni 2026",
+
+  icons: {
+    icon: "/imglogo.png",
+    shortcut: "/imglogo.png",
+    apple: "/imglogo.png",
+  },
 };
 export const viewport: Viewport = {
   width: "device-width",
